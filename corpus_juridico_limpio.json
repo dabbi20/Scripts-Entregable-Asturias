@@ -1,0 +1,252 @@
+[
+    {
+        "id":1,
+        "texto_original":"Acción de tutela por vulneración del derecho fundamental a la salud.",
+        "texto_limpio":"accion tutela vulneracion derecho fundamental salud"
+    },
+    {
+        "id":2,
+        "texto_original":"Demanda laboral por despido sin justa causa y falta de pago de prestaciones sociales.",
+        "texto_limpio":"demanda laboral despido justa causa falta pago prestacion sociales"
+    },
+    {
+        "id":3,
+        "texto_original":"Proceso penal por hurto agravado cometido en establecimiento comercial.",
+        "texto_limpio":"proceso penal hurto agravado cometido establecimiento comercial"
+    },
+    {
+        "id":4,
+        "texto_original":"Solicitud de custodia compartida de menor de edad por parte del padre.",
+        "texto_limpio":"solicitud custodia compartida menor edad padre"
+    },
+    {
+        "id":5,
+        "texto_original":"Incumplimiento de contrato de arrendamiento de vivienda urbana.",
+        "texto_limpio":"incumplimiento contrato arrendamiento vivienda urbana"
+    },
+    {
+        "id":6,
+        "texto_original":"Proceso de alimentos a favor de hijo menor de edad.",
+        "texto_limpio":"proceso alimentos hijo menor edad"
+    },
+    {
+        "id":7,
+        "texto_original":"Demanda civil por responsabilidad contractual e indemnización de perjuicios.",
+        "texto_limpio":"demanda civil responsabilidad contractual e indemnizacion perjuicios"
+    },
+    {
+        "id":8,
+        "texto_original":"Acción popular por afectación al medio ambiente en comunidad rural.",
+        "texto_limpio":"accion popular afectacion medio ambiente comunidad rural"
+    },
+    {
+        "id":9,
+        "texto_original":"Solicitud de reconocimiento de pensión de vejez ante entidad pública.",
+        "texto_limpio":"solicitud reconocimiento pension vejez entidad publica"
+    },
+    {
+        "id":10,
+        "texto_original":"Proceso penal por violencia intrafamiliar contra mujer víctima.",
+        "texto_limpio":"proceso penal violencia intrafamiliar mujer victima"
+    },
+    {
+        "id":11,
+        "texto_original":"Reclamación laboral por no pago de horas extras.",
+        "texto_limpio":"reclamacion laboral no pago horas extras"
+    },
+    {
+        "id":12,
+        "texto_original":"Tutela presentada por migrante para acceder a servicios de salud.",
+        "texto_limpio":"tutela presentada migrante acceder servicios salud"
+    },
+    {
+        "id":13,
+        "texto_original":"Demanda de divorcio y liquidación de sociedad conyugal.",
+        "texto_limpio":"demanda divorcio liquidacion sociedad conyugal"
+    },
+    {
+        "id":14,
+        "texto_original":"Proceso administrativo sancionatorio contra establecimiento comercial.",
+        "texto_limpio":"proceso administrativo sancionatorio establecimiento comercial"
+    },
+    {
+        "id":15,
+        "texto_original":"Recurso de reposición contra acto administrativo de una alcaldía.",
+        "texto_limpio":"recurso reposicion acto administrativo alcaldia"
+    },
+    {
+        "id":16,
+        "texto_original":"Solicitud de protección a víctima del conflicto armado.",
+        "texto_limpio":"solicitud proteccion victima conflicto armado"
+    },
+    {
+        "id":17,
+        "texto_original":"Proceso de sucesión intestada entre herederos.",
+        "texto_limpio":"proceso sucesion intestada heredero"
+    },
+    {
+        "id":18,
+        "texto_original":"Demanda por incumplimiento de contrato de compraventa.",
+        "texto_limpio":"demanda incumplimiento contrato compraventa"
+    },
+    {
+        "id":19,
+        "texto_original":"Investigación penal por lesiones personales.",
+        "texto_limpio":"investigacion penal lesiones personales"
+    },
+    {
+        "id":20,
+        "texto_original":"Solicitud de restablecimiento de derechos de menor de edad.",
+        "texto_limpio":"solicitud restablecimiento derecho menor edad"
+    },
+    {
+        "id":21,
+        "texto_original":"Tutela por vulneración del derecho a la educación.",
+        "texto_limpio":"tutela vulneracion derecho educacion"
+    },
+    {
+        "id":22,
+        "texto_original":"Reclamación por accidente laboral y riesgos profesionales.",
+        "texto_limpio":"reclamacion accidente laboral riesgos profesionales"
+    },
+    {
+        "id":23,
+        "texto_original":"Proceso penal por acceso carnal violento.",
+        "texto_limpio":"proceso penal acceso carnal violento"
+    },
+    {
+        "id":24,
+        "texto_original":"Demanda civil por daño moral y perjuicios materiales.",
+        "texto_limpio":"demanda civil dano moral perjuicios materiales"
+    },
+    {
+        "id":25,
+        "texto_original":"Solicitud de visa y regularización migratoria.",
+        "texto_limpio":"solicitud visa regularizacion migratoria"
+    },
+    {
+        "id":26,
+        "texto_original":"Acción de grupo por daños causados a comunidad indígena.",
+        "texto_limpio":"accion grupo danos causados comunidad indigena"
+    },
+    {
+        "id":27,
+        "texto_original":"Proceso de filiación y reconocimiento de paternidad.",
+        "texto_limpio":"proceso filiacion reconocimiento paternidad"
+    },
+    {
+        "id":28,
+        "texto_original":"Demanda laboral por acoso en el lugar de trabajo.",
+        "texto_limpio":"demanda laboral acoso lugar trabajo"
+    },
+    {
+        "id":29,
+        "texto_original":"Proceso penal por estafa y abuso de confianza.",
+        "texto_limpio":"proceso penal estafa abuso confianza"
+    },
+    {
+        "id":30,
+        "texto_original":"Solicitud de nulidad de acto administrativo.",
+        "texto_limpio":"solicitud nulidad acto administrativo"
+    },
+    {
+        "id":31,
+        "texto_original":"Tutela contra EPS por negación de medicamento.",
+        "texto_limpio":"tutela eps negacion medicamento"
+    },
+    {
+        "id":32,
+        "texto_original":"Proceso ejecutivo por incumplimiento de obligación dineraria.",
+        "texto_limpio":"proceso ejecutivo incumplimiento obligacion dineraria"
+    },
+    {
+        "id":33,
+        "texto_original":"Demanda de alimentos contra progenitor ausente.",
+        "texto_limpio":"demanda alimentos progenitor ausente"
+    },
+    {
+        "id":34,
+        "texto_original":"Solicitud de reparación integral para víctima del conflicto armado.",
+        "texto_limpio":"solicitud reparacion integral victima conflicto armado"
+    },
+    {
+        "id":35,
+        "texto_original":"Proceso disciplinario contra servidor público.",
+        "texto_limpio":"proceso disciplinario servidor publico"
+    },
+    {
+        "id":36,
+        "texto_original":"Demanda por terminación unilateral de contrato laboral.",
+        "texto_limpio":"demanda terminacion unilateral contrato laboral"
+    },
+    {
+        "id":37,
+        "texto_original":"Solicitud de protección por violencia económica en el hogar.",
+        "texto_limpio":"solicitud proteccion violencia economica hogar"
+    },
+    {
+        "id":38,
+        "texto_original":"Proceso de restitución de tierras para población desplazada.",
+        "texto_limpio":"proceso restitucion tierras poblacion desplazada"
+    },
+    {
+        "id":39,
+        "texto_original":"Demanda civil por incumplimiento de contrato de prestación de servicios.",
+        "texto_limpio":"demanda civil incumplimiento contrato prestacion servicios"
+    },
+    {
+        "id":40,
+        "texto_original":"Acción constitucional por vulneración del derecho a la igualdad.",
+        "texto_limpio":"accion constitucional vulneracion derecho igualdad"
+    },
+    {
+        "id":41,
+        "texto_original":"Proceso penal por amenazas contra líder social.",
+        "texto_limpio":"proceso penal amenazas lider social"
+    },
+    {
+        "id":42,
+        "texto_original":"Solicitud de medidas de protección para mujer víctima de violencia.",
+        "texto_limpio":"solicitud medidas proteccion mujer victima violencia"
+    },
+    {
+        "id":43,
+        "texto_original":"Reclamación laboral por liquidación incorrecta.",
+        "texto_limpio":"reclamacion laboral liquidacion incorrecta"
+    },
+    {
+        "id":44,
+        "texto_original":"Proceso administrativo por revocatoria directa de resolución.",
+        "texto_limpio":"proceso administrativo revocatoria directa resolucion"
+    },
+    {
+        "id":45,
+        "texto_original":"Demanda de pertenencia sobre bien inmueble.",
+        "texto_limpio":"demanda pertenencia bien inmueble"
+    },
+    {
+        "id":46,
+        "texto_original":"Tutela por falta de atención médica urgente.",
+        "texto_limpio":"tutela falta atencion medica urgente"
+    },
+    {
+        "id":47,
+        "texto_original":"Proceso penal por violencia patrimonial en contexto familiar.",
+        "texto_limpio":"proceso penal violencia patrimonial contexto familiar"
+    },
+    {
+        "id":48,
+        "texto_original":"Solicitud de asilo por persecución política.",
+        "texto_limpio":"solicitud asilo persecucion politica"
+    },
+    {
+        "id":49,
+        "texto_original":"Demanda comercial por incumplimiento de obligaciones mercantiles.",
+        "texto_limpio":"demanda comercial incumplimiento obligacion mercantiles"
+    },
+    {
+        "id":50,
+        "texto_original":"Proceso de adopción de menor de edad.",
+        "texto_limpio":"proceso adopcion menor edad"
+    }
+]
