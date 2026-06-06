@@ -1,0 +1,98 @@
+{
+    "familia": [
+        "custodia",
+        "alimentos",
+        "divorcio",
+        "matrimonio",
+        "hijo",
+        "menor",
+        "patria potestad",
+        "paternidad",
+        "adopcion",
+        "familia",
+        "sociedad conyugal"
+    ],
+    "laboral": [
+        "contrato laboral",
+        "empleado",
+        "empleador",
+        "salario",
+        "despido",
+        "prestaciones",
+        "liquidacion",
+        "horas extras",
+        "acoso laboral",
+        "accidente laboral",
+        "trabajador"
+    ],
+    "penal": [
+        "delito",
+        "hurto",
+        "fiscalia",
+        "captura",
+        "prision",
+        "pena",
+        "acusado",
+        "lesiones",
+        "amenazas",
+        "estafa",
+        "violencia intrafamiliar"
+    ],
+    "civil": [
+        "contrato",
+        "obligacion",
+        "indemnizacion",
+        "responsabilidad",
+        "arrendamiento",
+        "propiedad",
+        "perjuicio",
+        "compraventa",
+        "sucesion",
+        "bien inmueble",
+        "demanda civil"
+    ],
+    "constitucional": [
+        "tutela",
+        "derecho fundamental",
+        "igualdad",
+        "salud",
+        "educacion",
+        "debido proceso",
+        "constitucion",
+        "accion popular",
+        "accion de grupo"
+    ],
+    "administrativo": [
+        "acto administrativo",
+        "resolucion",
+        "alcaldia",
+        "sancion",
+        "licencia",
+        "entidad publica",
+        "recurso",
+        "revocatoria directa",
+        "servidor publico"
+    ],
+    "migratorio": [
+        "migrante",
+        "visa",
+        "asilo",
+        "refugio",
+        "regularizacion",
+        "permiso",
+        "deportacion",
+        "frontera",
+        "extranjero"
+    ],
+    "victimas_conflicto": [
+        "victima",
+        "conflicto armado",
+        "desplazado",
+        "reparacion",
+        "restitucion de tierras",
+        "lider social",
+        "comunidad rural",
+        "proteccion",
+        "violencia"
+    ]
+}
